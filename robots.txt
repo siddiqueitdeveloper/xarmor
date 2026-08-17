@@ -1,8 +1,8 @@
-# robots.txt for XARMOR — https://siddique.xarmor.org/
+# robots.txt for XARMOR — https://www.xarmor.org/
 # Allow all reputable crawlers full access.
 
 User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://siddique.xarmor.org/sitemap.xml
+Sitemap: https://www.xarmor.org/sitemap.xml
